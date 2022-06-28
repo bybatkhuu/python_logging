@@ -122,7 +122,7 @@ except Exception as err:
 
 **configs/logger.yml**:
 
-```yml
+```yaml
 logger:
     level: "TRACE"
     use_color: true
